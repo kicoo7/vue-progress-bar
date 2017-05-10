@@ -1,0 +1,21 @@
+{
+  "name": "progress-bar-vue-2",
+  "version": "1.0.0",
+  "description": "Progress bar component for Vue 2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "progress",
+    "bar",
+    "progressbar",
+    "vue",
+    "vue2"
+  ],
+  "author": "Krste Rajchevski",
+  "license": "ISC",
+  "dependencies": {
+    "progressbar.js": "^1.0.1"
+  }
+}
